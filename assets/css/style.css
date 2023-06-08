@@ -5,7 +5,7 @@ html{
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #300050;
+    background-color: #a86fce;
 }
 
 /* splash screen css starts here  */
@@ -26,7 +26,7 @@ body{
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 2rem;
-    color: #001e46!important;
+    color: #445974!important;
 }
 
 .nav-link{
@@ -42,7 +42,7 @@ body{
 /* here content css starts here  */
 .hero-content{
     height: 100vh;
-    background-color: #355070;
+    background-color: #80a8da;
     color: #ffffff;
     padding: 3rem;
     border-bottom-left-radius: 45rem;
@@ -80,7 +80,7 @@ body{
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #dd3704;
+    background-color: #dda594;
     border-top-left-radius: 42rem;
     border-top-right-radius: 42rem;
     border-bottom-right-radius: 42rem;
