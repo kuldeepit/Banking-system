@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #d5b9b2;
+    background-color: #4b190c;
 }
 
 /* navbar css starts here  */
@@ -11,7 +11,7 @@ body{
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 1.5rem;
-    color: #5f6368!important;
+    color: #98c2f5!important;
 }
 
 .nav-link{

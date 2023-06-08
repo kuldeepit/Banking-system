@@ -20,13 +20,13 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #f2e9e4!important;
+    background-color: #eeeceb!important;
 }
 
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 1.5rem;
-    color: #5f6368!important;
+    color: #494c50!important;
 }
 
 .nav-link{
@@ -66,7 +66,7 @@ body{
     padding: 1rem 2rem;
     font-size: 162%;
     background-color: #fff;
-    color: #039be5!important;
+    color: #00aaff!important;
     transition: 0.3s;
 }
 
@@ -80,7 +80,7 @@ body{
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #ff8a65;
+    background-color: #dd3704;
     border-top-left-radius: 42rem;
     border-top-right-radius: 42rem;
     border-bottom-right-radius: 42rem;
