@@ -11,7 +11,7 @@ body{
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 2rem;
-    color: #98c2f5!important;
+    color: #00295c!important;
 }
 
 .nav-link{
@@ -20,7 +20,7 @@ body{
 }
 
 .nav-link:hover{
-    background-color: #f3f1f1;
+    background-color: #ecb7b7;
 }
 /* navbar css ends here  */
 
@@ -38,5 +38,5 @@ body{
 }
 
 .btn-info:hover{
-    background-color: rgb(255, 254, 169)!important;
+    background-color: rgb(247, 111, 70)!important;
 }
