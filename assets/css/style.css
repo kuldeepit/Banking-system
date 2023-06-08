@@ -20,13 +20,13 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #eeeceb!important;
+    background-color: #f0cfbe!important;
 }
 
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 2rem;
-    color: #445974!important;
+    color: #81a6d6!important;
 }
 
 .nav-link{
@@ -80,7 +80,7 @@ body{
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #dda594;
+    background-color: #f3cfc5;
     border-top-left-radius: 42rem;
     border-top-right-radius: 42rem;
     border-bottom-right-radius: 42rem;
@@ -118,7 +118,7 @@ footer{
 }
 
 .github{
-    color: #000000;
+    color: #070707;
 }
 
 .linkedin{
