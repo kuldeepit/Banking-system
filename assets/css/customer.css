@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #4b190c;
+    background-color: #e09480;
 }
 
 /* navbar css starts here  */
@@ -15,7 +15,7 @@ body{
 }
 
 .nav-link{
-    color: #252627!important;
+    color: #8facc9!important;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
