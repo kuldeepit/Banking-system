@@ -45,8 +45,8 @@ body{
     background-color: #80a8da;
     color: #ffffff;
     padding: 3rem;
-    border-bottom-left-radius: 45rem;
-    border-bottom-right-radius: 45rem;
+    border-bottom-left-radius: 20rem;
+    border-bottom-right-radius: 80rem;
     margin-bottom: 1vh;
 }
 
